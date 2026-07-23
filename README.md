@@ -2,6 +2,6 @@
 
 I build software, automate repetitive work, and study systems until I understand what is happening underneath.
 
-I work across software development, cybersecurity, systems, and applied artificial intelligence. I am interested in practical tools, privacy, research, and projects that demand more than pasting code together until it works.
+I work across software engineering, cybersecurity and applied artificial intelligence.
 
 Here I publish code, experiments, research, and projects that managed to survive my local drive.
