@@ -1,7 +1,7 @@
 # Vagancia
 
-Construyo software, automatizo lo repetitivo y estudio los sistemas hasta entender qué está pasando por debajo.
+I build software, automate repetitive work, and study systems until I understand what is happening underneath.
 
-Trabajo entre desarrollo de software, ciberseguridad, sistemas e inteligencia artificial aplicada. Me interesan las herramientas prácticas, la privacidad y los proyectos que exigen algo más que pegar código hasta que funcione.
+I work across software development, cybersecurity, systems, and applied artificial intelligence. I am interested in practical tools, privacy, and projects that demand more than pasting code together until it works.
 
-Aquí publico código, experimentos y proyectos que lograron sobrevivir a mi disco local.
+Here I publish code, experiments, and projects that managed to survive my local drive.
